@@ -1,5 +1,4 @@
 //calculator
-//Wow
 #include <iostream>
 using namespace std;
 int main(){
